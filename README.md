@@ -22,7 +22,7 @@ The currency system is custom currency.
 
 # Time LeaderBoard
 
-The time leaderboard is already set. You dont have to do anything other than adding it in the editor once you copy paste it to your verse file and compiled it. But make sure its "Enabled at Game start".
+The time leaderboard is already set. It already has the ui built in verse, you dont have to do anything other than adding it in the editor once you copy paste it to your verse file and compiled it. But make sure its "Enabled at Game start".
 The purpose of this is that it will increment each second and saves it when the player leaves in the "Persistence Manager". So when the player rejoins it will load his seconds, minutes, hours. 
 
 
