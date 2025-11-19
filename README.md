@@ -10,12 +10,12 @@ Download them and copy paste it into your uefn project file. **Make sure they're
 # Currency System
 
 The currency system is custom currency. 
-1. once you pasted the code and compiled it add it in the editor. in the "details" section set the "FPS_ToRefreshCurency" to 15.
-2. in the "currencies data" add in 1 array element and set the "currencyID" to "gold" (write it down)
-3. make 2 huds that displays the currency "currentAmoutHud" and "NotUIHUD" and set them inside the "currenciesdata"
-4. The "ManagersData" is where you set the triggers and "CurrencyAction". once you set the trigger set the "currency action to either increment the currency or decrement and how much. You can add in as much "managers data".
-5. The "PRiceManagersData" is basicaly a shop for the currency. set the name of the "PriceManagerID" as whatever you like. Check the "With saving", add a buttons device and add and set the "Price Data".
-6. in the "Price Data" set the currencyID to "Gold" this is **important**, then you can set the price of the item.
+1. once you pasted the code and compiled it add it in the editor. in the "details" section set the "FPS_ToRefreshCurency" to 15.\
+2. in the "currencies data" add in 1 array element and set the "currencyID" to "gold" (write it down)\
+3. make 2 huds that displays the currency "currentAmoutHud" and "NotUIHUD" and set them inside the "currenciesdata"\
+4. The "ManagersData" is where you set the triggers and "CurrencyAction". once you set the trigger set the "currency action to either increment the currency or decrement and how much. You can add in as much "managers data".\
+5. The "PRiceManagersData" is basicaly a shop for the currency. set the name of the "PriceManagerID" as whatever you like. Check the "With saving", add a buttons device and add and set the "Price Data".\
+6. in the "Price Data" set the currencyID to "Gold" this is **important**, then you can set the price of the item.\
 7. add in 2 new triggers called "Trigger_Cost_Item" and "Trigger_Activate_Item" and set them in the "ManagersTriggers" -> Trigger_cost. And "MainSuccessTriggers" -> Trigger_Activate_Item"
 
 
