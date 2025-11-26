@@ -1,5 +1,5 @@
 # Currency System with persistance and time leaderboard
-The following has 3 Verse files:\
+The following has 3 Verse Files:\
 **1. currency_system.verse**\
 **2. persistence_manager.verse**\
 **3. time_leaderboard.verse**
